@@ -1,8 +1,8 @@
 {
   "error": 0,
   "message": {
-    "update_version_code": "78",
-    "update_link_download": "https://dl.vivatv.io/aoedl/vivatv_1.7.8.apk",
+    "update_version_code": "79",
+    "update_link_download": "https://dl.vivatv.io/aoedl/vivatv_1.7.9.apk",
     "update_changelog": "- Add bunch of link providers.</br>- Fix bugs and optimize.</br>",
     "update_isforce": "false",
     "api_banner": "https://tele.morphtv.club/api/banners",
